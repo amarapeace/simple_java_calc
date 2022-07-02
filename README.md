@@ -1,0 +1,1 @@
+This is a basic calculator that operates on only two values and 4 mathematical operators.
